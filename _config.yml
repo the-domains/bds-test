@@ -1,6 +1,6 @@
 name: BDS-TEST
 favicon: null
-layout_spectrum: 0.73722
+layout_spectrum: 0.23306
 typography_spectrum: 0.3329
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#a59684'
     - '#7a683c'
   brandStrength: 0.75
-  lightness: 0.9875446127261966
+  lightness: 1
   saturation: 0.4135935481172055
   rhythmicContrast: 0.25
 purpose: []

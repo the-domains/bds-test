@@ -1,0 +1,28 @@
+name: BDS-TEST
+favicon: null
+layout_spectrum: 0.7668636990711093
+typography_spectrum: 0.09148672129958868
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7628264881204814
+  lightness: 0.9875446127261966
+  saturation: 0.4135935481172055
+  rhythmicContrast: 0.7958771751727909
+purpose: []
